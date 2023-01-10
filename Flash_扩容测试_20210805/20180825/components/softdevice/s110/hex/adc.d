@@ -1,0 +1,9 @@
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: ADC\ADC.c
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: ADC\adc.h
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: ..\..\..\..\..\..\components\device\nrf51.h
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+..\..\..\..\..\..\components\softdevice\s110\hex\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

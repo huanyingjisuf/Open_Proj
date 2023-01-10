@@ -1,0 +1,12 @@
+.\_build\pass_word.o: Pass_Word\Pass_Word.c
+.\_build\pass_word.o: .\Pass_Word\Pass_Word.h
+.\_build\pass_word.o: ..\..\..\..\..\..\components\device\nrf.h
+.\_build\pass_word.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\pass_word.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\_build\pass_word.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\pass_word.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\pass_word.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\pass_word.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\pass_word.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\pass_word.o: ..\..\..\..\..\..\components\device\nrf51_deprecated.h
+.\_build\pass_word.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h

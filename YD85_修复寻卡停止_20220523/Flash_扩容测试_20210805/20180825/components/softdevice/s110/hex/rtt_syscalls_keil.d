@@ -1,0 +1,10 @@
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: ..\..\..\..\..\..\components\drivers_ext\segger_rtt\RTT_Syscalls_KEIL.c
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_sys.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_misc.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: ..\..\..\..\..\..\components\drivers_ext\segger_rtt\SEGGER_RTT.h
+..\..\..\..\..\..\components\softdevice\s110\hex\rtt_syscalls_keil.o: ..\..\..\..\..\..\components\drivers_ext\segger_rtt\SEGGER_RTT_Conf.h

@@ -1,0 +1,12 @@
+.\_build\unix_time.o: Unix_Time\Unix_Time.c
+.\_build\unix_time.o: .\Unix_Time\Unix_Time.h
+.\_build\unix_time.o: ..\..\..\..\..\..\components\device\nrf.h
+.\_build\unix_time.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\unix_time.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\_build\unix_time.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\unix_time.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\unix_time.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\unix_time.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\unix_time.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\unix_time.o: ..\..\..\..\..\..\components\device\nrf51_deprecated.h
+.\_build\unix_time.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h

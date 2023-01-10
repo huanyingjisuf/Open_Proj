@@ -1,0 +1,12 @@
+.\_build\uart.o: ..\..\..\..\..\..\uart_lib\uart.c
+.\_build\uart.o: ..\..\..\..\..\..\uart_lib\uart.h
+.\_build\uart.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\_build\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\uart.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\_build\uart.o: ..\..\..\..\..\..\uart_lib\simple_uart.h
+.\_build\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

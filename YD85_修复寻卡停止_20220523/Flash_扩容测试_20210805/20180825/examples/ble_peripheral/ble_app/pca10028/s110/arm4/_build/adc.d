@@ -1,0 +1,17 @@
+.\_build\adc.o: ADC\ADC.c
+.\_build\adc.o: ADC\adc.h
+.\_build\adc.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\adc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\_build\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\adc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\adc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\adc.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\_build\adc.o: ..\..\..\..\..\..\components\drivers_nrf\hal\nrf_gpio.h
+.\_build\adc.o: ..\..\..\..\..\..\components\device\nrf.h
+.\_build\adc.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\adc.o: ..\..\..\..\..\..\components\device\nrf51_deprecated.h
+.\_build\adc.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h
+.\_build\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\_build\adc.o: ..\..\..\..\..\..\components\drivers_nrf\delay\nrf_delay.h

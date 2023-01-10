@@ -1,0 +1,13 @@
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\uart_lib\simple_uart.c
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\components\device\nrf.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\components\device\nrf51.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\components\device\nrf51_deprecated.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: ..\..\..\..\..\..\uart_lib\simple_uart.h
+..\..\..\..\..\..\components\softdevice\s110\hex\simple_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

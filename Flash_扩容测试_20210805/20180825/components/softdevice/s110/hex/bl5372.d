@@ -1,0 +1,13 @@
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: BL5372\BL5372.C
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: ..\..\..\..\..\..\components\device\nrf.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: ..\..\..\..\..\..\components\device\nrf51.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: ..\..\..\..\..\..\components\device\nrf51_deprecated.h
+..\..\..\..\..\..\components\softdevice\s110\hex\bl5372.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h
